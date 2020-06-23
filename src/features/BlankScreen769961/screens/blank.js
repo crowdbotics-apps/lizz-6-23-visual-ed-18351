@@ -82,6 +82,7 @@ export class _Blank extends React.Component {
         >
           <Text
             style={{
+              marginRight: 20,
               overflow: "visible",
               fontSize: 16,
               color: "#151515",
